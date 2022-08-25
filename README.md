@@ -12,7 +12,6 @@
 
 ## Site
 - [marvel-characterselect.com](https://omatheusesteves.github.io/mapadevweek-marvel-characterselect/)
-https://omatheusesteves.github.io/frontweek-spiderman/
 
 ## 🚀 Tecnologias
 
